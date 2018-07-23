@@ -25,3 +25,9 @@ html {
     height: 100%;
     background-size: cover;
 }
+button {
+    text-align: center;
+    line-height: 40px;
+    font-family: 'EB Garamond', serif;
+    font-weight: bold;
+}
