@@ -1,9 +1,16 @@
 
-h1 {color: rgb(64, 83, 99);
+h1 {color: rgb(232, 232, 233);
     text-align: center;
-    line-height: 60px;
+    line-height: 80px;
+    font-family: 'Cinzel', serif;
+    font-weight: bold
 }
-h2 {color: rgb(35, 112, 153);
+h2 {color: rgb(247, 248, 248);
+}
+p {
+    font-family: 'EB Garamond', serif;
+    font-weight: bold;
+    line-height: 50px;
 }
 .right-align {text-align:right;
 }
