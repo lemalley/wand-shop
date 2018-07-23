@@ -1,0 +1,18 @@
+
+h1 {color: rgb(64, 83, 99);
+    text-align: center;
+    line-height: 60px;
+}
+h2 {color: rgb(35, 112, 153);
+}
+.right-align {text-align:right;
+}
+.right-margin {padding-left:400px;
+}
+body {
+    padding-left:75px;
+    font-family: 'Quicksand', sans-serif;
+}
+html {
+    background: url("misty-forest.jpg") no-repeat center center fixed
+}
