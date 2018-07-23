@@ -14,5 +14,7 @@ body {
     font-family: 'Quicksand', sans-serif;
 }
 html {
-    background: url("misty-forest.jpg") no-repeat center center fixed
+    background: url("misty-forest.jpg") no-repeat center center fixed;
+    height: 100%;
+    background-size: cover;
 }
